@@ -1,0 +1,19 @@
+{
+  "name": "test-sdk",
+  "version": "1.0.0",
+  "description": "Messing with SDK packaging",
+  "main": "testSDK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganLeopold/test-sdk.git"
+  },
+  "author": "Logan Leopold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganLeopold/test-sdk/issues"
+  },
+  "homepage": "https://github.com/LoganLeopold/test-sdk#readme"
+}
