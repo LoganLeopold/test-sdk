@@ -1,5 +1,5 @@
 {
-  "name": "test-sdk",
+  "name": "logan-test-sdk",
   "version": "1.0.0",
   "description": "Messing with SDK packaging",
   "main": "testSDK.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/LoganLeopold/test-sdk.git"
   },
-  "author": "Logan Leopold",
+  "author": "loganleopold",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LoganLeopold/test-sdk/issues"
